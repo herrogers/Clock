@@ -1,2 +1,7 @@
 # Clock
-The files are all digital clocks. One was made with Python. One was made with Java. One was made with C#. One was made with JavaScript (html, css, js).
+The files are all digital clocks made with different programming languages.
+
+The file Clock.py was made with Python.
+The file DigitalClock.jar was made with Java.
+The file folder digitalClock.zip was made with C#.
+The files index.html, myscript.js, and mystyle.css use HTML, CSS, and JavaScript.
